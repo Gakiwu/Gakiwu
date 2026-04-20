@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Gakiwoo
-- 👀 I’m interested in AI Health and AI Sports Application Software
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Health and Sports Application Software
-- 📫 X：@Gakiwoo
-- 📫 website：gakiwoo.com
+- 👋 Hi, I'm @Gakiwoo
+- 👀 I'm very interested in AI agents and AI motion vision applications.
+- 💞️ I'm looking for partners in AI agents and AI motion vision applications.
+- 📫 Contact: @Gakiwoo
+- 📫 Website: gakiwoo.com
