@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Gakiwoo
-- 👀 I'm very interested in AI agents and AI motion vision applications.
+- 👀 Product Manager | Vibe Coding
 - 💞️ I'm looking for partners in AI agents and AI motion vision applications.
 - 📫 Contact: @Gakiwoo
-- 📫 Website: gakiwoo.com
+- 📫 Website: www.gakiwoo.com
